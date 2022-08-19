@@ -11,3 +11,8 @@ $ npm i
 how to install dependencies from package.json
 
 npm install // installs dependencies listed in package.json
+
+
+# if intrested cloudinary and mapbox
+
+create acoount and add access to .env file

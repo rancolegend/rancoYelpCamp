@@ -10,7 +10,9 @@ $ npm i
 
 how to install dependencies from package.json
 
-npm install // installs dependencies listed in package.json
+# installs dependencies listed in package.json
+npm install
+
 
 
 # if intrested cloudinary and mapbox
